@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lajpat Rai</h1>
 <h3 align="center">A passionate Java developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai11lajpat&label=Profile%20views&color=0e75b6&style=flat" alt="rai11lajpat" /> </p>
 

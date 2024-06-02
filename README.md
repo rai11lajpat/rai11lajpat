@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lajpat Rai</h1>
 <h3 align="center">A passionate Java developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.licdn.com/dms/image/D4D16AQEanIDmDS-o1g/profile-displaybackgroundimage-shrink_350_1400/0/1689855641358?e=1723075200&v=beta&t=cIR0Jj4vEzdxpBIBngmRrZbGym8jxZ5PnoRYdlyV5A8)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai11lajpat&label=Profile%20views&color=0e75b6&style=flat" alt="rai11lajpat" /> </p>
 

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lajpatsankhla@gmail.com**
 
-- 📄 Know about my experiences [([https://rai11lajpat.github.io/portFolio/assets/Lajpat_CV_internship_IT-37d10545.pdf](https://rai11lajpat.github.io/portFolio/assets/CV%20Lajpat%20Rai-%20JAVA-4e05cd5f.pdf)](https://rai11lajpat.github.io/portFolio/assets/Lajpat%20Rai_Spring_Boot_java_intern-daa5e7da.pdf))
+- 📄 Know about my experiences [([https://rai11lajpat.github.io/portFolio/assets/Lajpat_CV_internship_IT-37d10545.pdf](https://rai11lajpat.github.io/portFolio/assets/CV%20Lajpat%20Rai-%20JAVA-4e05cd5f.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEanIDmDS-o1g/profile-displaybackgroundimage-shrink_350_1400/0/1689855641358?e=1723075200&v=beta&t=cIR0Jj4vEzdxpBIBngmRrZbGym8jxZ5PnoRYdlyV5A8)](https://github.com/rai11lajpat)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEanIDmDS-o1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689855641358?e=1758153600&v=beta&t=-Y0wr9xQMBgzFDeXZFZ9na-gQRFAFIaSLtWmLjTD_6w)](https://github.com/rai11lajpat)
+
+
 
 <h1 align="center">Hi 👋, I'm Lajpat Rai</h1>
 <h3 align="center">A passionate Java developer</h3>

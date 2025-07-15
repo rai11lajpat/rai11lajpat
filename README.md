@@ -1,5 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEanIDmDS-o1g/profile-displaybackgroundimage-shrink_350_1400/0/1689855641358?e=1723075200&v=beta&t=cIR0Jj4vEzdxpBIBngmRrZbGym8jxZ5PnoRYdlyV5A8)](https://github.com/rai11lajpat)
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fjob-seeker-toolbox%2F114-linkedin-background-photo-examples-healthy-resumes-f5cee87fb0ad&psig=AOvVaw3BQt5qdeHIvi1fEEXfsGL_&ust=1752682429505000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODCi4Shv44DFQAAAAAdAAAAABAE
+
 <h1 align="center">Hi 👋, I'm Lajpat Rai</h1>
 <h3 align="center">A passionate Java developer</h3>
 
